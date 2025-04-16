@@ -27,7 +27,7 @@ export default function ButtonDemo() {
           color: '#2c3e50',
         }}
       >
-        🔘 Button Styles
+        🔘 Button Style
       </h2>
 
       <div
